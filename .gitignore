@@ -1,0 +1,4 @@
+*.class
+.env
+target/
+dependency-reduced-pom.xml
